@@ -12,6 +12,7 @@ Url:            http://bitbucket.org/naviserver/nsdbi
 BuildRequires:  make
 BuildRequires:  naviserver
 BuildRequires:  naviserver-devel
+Requires:       naviserver
 Source0:        %{name}-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
 
