@@ -5,7 +5,7 @@
 Summary:        NaviServer nsdbi module
 Name:           naviserver-mod_nsdbi
 Version:        0.4
-Release:        0
+Release:        1
 License:        MPL-1.1
 Group:          Productivity/Networking/Web/Servers
 Url:            http://bitbucket.org/naviserver/nsdbi
